@@ -1,1 +1,1 @@
-printf("Barrett Rodell\n");
+printf("Barrett Rodell, Computer Science\n");
